@@ -3,7 +3,7 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
+<!-- This project is meant to help students and researchers across University of Rochester create their
   own hosted academic website for free with GitHub. 
 
 ## About this Site
@@ -19,5 +19,7 @@ This project is a slight customization based off of some great work by
 
 To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
   There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
+  create your new site. -->
+
+TODO
   
