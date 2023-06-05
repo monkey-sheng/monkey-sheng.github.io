@@ -2,17 +2,17 @@
 # Site wide configuration
 
 # url: "https://jasonhu.site"
-title: RCL SiteBuilder
+title: Jason Hu's Homepage
 locale: en_US
-logo: #logo.png # filename of a logo image that has been placed into your images directory
+logo: 35x45.jpeg #logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Jason Hu
-  avatar: #bio-photo.jpg
+  avatar: bio-photo.jpg
   bio: An academic website builder based off of NCSU Libraries' "jekyll academic"
   website: https://library.rochester.edu
-  email: rclfeedback@library.rochester.edu #personal email
+  email: hujason@hotmail.com #personal email
   twitter: #RCLibraries
   linkedin: #linkedin id
   github: monkey-sheng
@@ -35,7 +35,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: RCLibraries
+  youtube: #RCLibraries
   soundcloud: #username
   weibo: #username
   flickr: #username
