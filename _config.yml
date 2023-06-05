@@ -2,7 +2,7 @@
 # Site wide configuration
 
 # url: "https://jasonhu.site"
-title: #Jason Hu's Homepage
+title: Jason Hu
 locale: en_US
 logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has been placed into your images directory
 
@@ -10,8 +10,8 @@ logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has 
 owner:
   name: Jason Hu
   avatar: bio-photo.jpg  # will be displayed next to name
-  bio: An academic website builder based off of NCSU Libraries' "jekyll academic"
-  website: https://library.rochester.edu
+  bio: Incoming PhD student (starting Fall 2023) at the University of Toronto, supervised by Dr. Qizhen Zhang; previously undergrad at the University of Edinburgh.
+  website: #https://library.rochester.edu
   email: hujason@hotmail.com #personal email
   twitter: #RCLibraries
   linkedin: #linkedin id
@@ -45,7 +45,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#FFC70A' #UR gold
+highlight-color: '#222222' #UR gold
 lowlight-color: '#073661' #UR navy
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
