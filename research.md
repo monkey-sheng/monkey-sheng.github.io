@@ -3,8 +3,9 @@ layout: post-index
 title: Research
 ---
 
-Below you'll find explanations on how to create a site just like this and get it hosted
-  for free. 
+<!-- Below you'll find explanations on how to create a site just like this and get it hosted
+  for free.  -->
+TODO
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
