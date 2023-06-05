@@ -8,8 +8,8 @@ logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has 
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Jason Hu
-  avatar: bio-photo.jpg  # will be displayed next to name
+  name: Jason (Jiasheng) Hu
+  avatar: 35x45.jpeg  # will be displayed next to name
   bio: Incoming PhD student (starting Fall 2023) at the University of Toronto, supervised by Dr. Qizhen Zhang; previously undergrad at the University of Edinburgh.
   website: #https://library.rochester.edu
   email: hujason@hotmail.com #personal email
