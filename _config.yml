@@ -2,14 +2,14 @@
 # Site wide configuration
 
 # url: "https://jasonhu.site"
-title: Jason Hu's Homepage
+title: #Jason Hu's Homepage
 locale: en_US
-logo: 35x45.jpeg #logo.png # filename of a logo image that has been placed into your images directory
+logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Jason Hu
-  avatar: bio-photo.jpg
+  avatar: bio-photo.jpg  # will be displayed next to name
   bio: An academic website builder based off of NCSU Libraries' "jekyll academic"
   website: https://library.rochester.edu
   email: hujason@hotmail.com #personal email
