@@ -10,9 +10,9 @@ logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has 
 owner:
   name: Jason (Jiasheng) Hu
   avatar: 35x45.jpeg  # will be displayed next to name
-  bio: Incoming PhD student (starting Fall 2023) at the University of Toronto, supervised by Dr. Qizhen Zhang; previously undergrad at the University of Edinburgh.
+  bio: 2nd Year PhD student at the University of Toronto, supervised by Prof. Qizhen Zhang; BEng Hon. @ University of Edinburgh.
   website: #https://library.rochester.edu
-  email: hujason@hotmail.com #personal email
+  email: jasonhu@cs.toronto.edu #personal email
   twitter: #RCLibraries
   linkedin: #linkedin id
   github: monkey-sheng
@@ -41,7 +41,7 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname: #username
-  resume: #link to a resume
+  resume: https://monkey-sheng.github.io/CV-Jiasheng (Jason) Hu.pdf #url to your CV
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
