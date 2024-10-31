@@ -1,7 +1,7 @@
 
 # Site wide configuration
 
-# url: "https://jasonhu.site"
+url: "https://jasonhu.site"
 title: Jason Hu
 locale: en_US
 logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has been placed into your images directory
@@ -12,7 +12,7 @@ owner:
   avatar: 35x45.jpeg  # will be displayed next to name
   bio: 2nd Year PhD student at the University of Toronto, supervised by Prof. Qizhen Zhang; BEng Hon. @ University of Edinburgh.
   website: #https://library.rochester.edu
-  email: jasonhu@cs.toronto.edu #personal email
+  email: jasonhu@cs.toronto.edu # email
   twitter: #RCLibraries
   linkedin: #linkedin id
   github: monkey-sheng
@@ -41,7 +41,7 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname: #username
-  resume: https://monkey-sheng.github.io/CV-Jiasheng (Jason) Hu.pdf #url to your CV
+  resume: /assets/static/CV-Jiasheng(Jason)Hu.pdf #https://monkey-sheng.github.io/CV-Jiasheng(Jason)Hu.pdf #url to your CV
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
