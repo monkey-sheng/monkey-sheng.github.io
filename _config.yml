@@ -1,9 +1,9 @@
 
 # Site wide configuration
 
-url: //monkey-sheng.github.io
+url: https://jasonhu.site
 github:
-  url: https://monkey-sheng.github.io
+  url: https://jasonhu.site
 title: Jason Hu's personal website
 locale: en_US
 logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has been placed into your images directory
