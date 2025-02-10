@@ -7,10 +7,10 @@ title: Research
   for free.  -->
 {% for post in site.posts %}
   {% if post.tags contains "research" %}
-    <article>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </article>
+- **[{{ post.title }}]({{ post.url }})**
+
+  {{ post.excerpt }}
+
   {% endif %}
 {% endfor %}
 
