@@ -466,13 +466,16 @@ $button-size: 1.5rem;
 	p > strong > a,
 	li > a {
 		text-decoration: underline;
+		color: #073661;
 	}
 }
 
 /* Custom hyperlink text color only to links in the main content */
-.page a {
-	color: #2095de;
-}
+// .page {
+// 	a {
+// 		color: #2095de;
+// 	}
+// }
 
 /* Table of contents */
 .toc {
