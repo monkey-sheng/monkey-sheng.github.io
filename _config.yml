@@ -4,7 +4,7 @@
 url: https://jasonhu.site
 github:
   url: https://jasonhu.site
-title: Jason Hu's personal website
+title: Hi, welcome to my homepage!
 locale: en_US
 logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has been placed into your images directory
 
@@ -12,7 +12,7 @@ logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has 
 owner:
   name: Jason (Jiasheng) Hu
   avatar: 35x45.jpeg  # will be displayed next to name
-  bio: 2nd Year PhD student at the University of Toronto, supervised by Prof. Qizhen Zhang; BEng Hon. @ University of Edinburgh.
+  bio: PhD student at the University of Toronto, Dept. of Computer Science; BEng Hon. in Computer Science @ University of Edinburgh.
   website: #https://library.rochester.edu
   email: jasonhu@cs.toronto.edu # email
   twitter: #RCLibraries

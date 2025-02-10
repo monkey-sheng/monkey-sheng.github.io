@@ -1,0 +1,9 @@
+---
+layout: post
+title: "DDS: DPU-optimized Disaggregated Storage"
+date: 2024-10-16
+tags: [research]
+---
+# Work I did (and did not do) for DDS
+
+The DDS project started at MSR, led by my supervisor before he joined UoT, and before I started as a PhD student. So I didn't get the opportunity to contribute to the design of this system; I did work on the storage engine (and marginally on the network engine and offload engine) of DDS. Anyway, it was a good first-time learning experience for me, and I enjoyed working with everyone involved.
