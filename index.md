@@ -37,7 +37,7 @@ As a junior researcher, I am actively exploring new ideas and research direction
 
 # Research & Publication
 <!-- Include subpage research.md -->
-<!-- {% include_relative research.md %} -->
+<!--  include_relative research.md %} -->
 **DPDPU: Data Processing with DPUs** [(link)](https://arxiv.org/pdf/2407.13658), CIDR 2025
 
 <u>Jiasheng Hu</u>, Philip Bernstein, Jialin Li, Qizhen Zhang

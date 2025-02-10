@@ -469,10 +469,11 @@ $button-size: 1.5rem;
 	}
 }
 
-/* Custom hyperlink text color */
-a {
+/* Custom hyperlink text color only to links in the main content */
+.page a {
 	color: #2095de;
 }
+
 /* Table of contents */
 .toc {
 	font-size: 95%;
