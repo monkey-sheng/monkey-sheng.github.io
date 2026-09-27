@@ -469,11 +469,12 @@ $button-size: 1.5rem;
 		color: #073661;
 	}
 
-	// Paper and repository links opt into this class instead of relying on markup shape.
-	.publication-link,
-	.code-link {
-		text-decoration: none;
-	}
+}
+
+// Paper and repository links opt into these classes instead of relying on markup shape.
+a.publication-link,
+a.code-link {
+	text-decoration: none !important;
 }
 
 /* Custom hyperlink text color only to links in the main content */
