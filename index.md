@@ -21,9 +21,7 @@ To see a step-by-step guide to build your own site, go to the [RESEARCH](/resear
   There you'll find a basic [guide](/blog/getting-started) that will help you
   create your new site. -->
 
-I'm Jiasheng Hu, currently a 2nd year PhD Student at [Far Data Lab](https://fardatalab.org), supervised by [Prof. Qizhen Zhang](https://qizhenzhang.me). I'm interested broadly in disaggregated data processing systems, especially where networking and storage come into play. I enjoy identifying and solving challenges that arise with resource disaggregation, as well as emerging hardware, for example, SmartNICs or DPUs, which have been the focus of my research work to date -- it is an exciting and rather unexplored platform for databases, that could potentially bring significant performance uplift.
-
-As a junior researcher, I am actively exploring new ideas and research directions, so feel free to reach out and have a discussion with me, whether it's something about databases, or else!
+I am a fourth-year PhD student in Computer Science at the University of Toronto and a member of [Far Data Lab](https://fardatalab.org), advised by [Professor Qizhen Zhang](https://qizhenzhang.me). My research focuses on cloud-native and distributed data processing systems, especially how networking and emerging hardware such as DPUs (SmartNICs) can improve data movement and processing efficiency. I enjoy building and optimizing these systems, with a particular focus on network communication.
 
 
 # News
@@ -33,25 +31,28 @@ As a junior researcher, I am actively exploring new ideas and research direction
 - Jun. 2024: Our paper ***DDS*** has been accepted at VLDB 2024!
 - Oct. 2024: Our paper ***DPDPU*** has been accepted at CIDR 2025!
 - Oct. 2024: I gave a talk on ***DDS*** at [OnDBD](https://ondbd.ca/).
+- May 2025: I started a summer research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) with Wentao Wu.
+- Apr. 2026: My internship project, [**Tuning the Lookahead Distance for PostgreSQL Asynchronous IO**](https://fardatalab.org/publications.html), was accepted to the VLDB 2026 Industrial Track.
+- Sept. 2026: I presented [**dpKernels**](https://fardatalab.org/vldb26-dpkernels.pdf) at VLDB 2026.
 
 
 # Publications
 <!-- Include subpage research.md -->
 <!--  include_relative research.md %} -->
-**Making Sense of DPU Performance for Cloud Data Processing.** SoCC 2026.  
+**[Making Sense of DPU Performance for Cloud Data Processing](https://fardatalab.org/publications.html).** SoCC 2026.  
 <u>Jiasheng Hu</u>, Chihan Cui, Yuanfan Chen, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
 
-**dpKernels: Harvesting DPU Compute Resources for Data-path Efficiency in Cloud Data Processing.** VLDB 2026.  
+**[dpKernels: Harvesting DPU Compute Resources for Data-path Efficiency in Cloud Data Processing](https://fardatalab.org/vldb26-dpkernels.pdf).** VLDB 2026. [Code](https://github.com/fardatalab/dpKernels).  
 <u>Jiasheng Hu</u>, Kaiwen Zheng, Anna Li, Sidharth Sankhe, Philip A. Bernstein, Qizhen Zhang.
 
-**Tuning the Lookahead Distance for PostgreSQL Asynchronous IO.** VLDB 2026 Industrial Track.  
+**[Tuning the Lookahead Distance for PostgreSQL Asynchronous IO](https://fardatalab.org/publications.html).** VLDB 2026 Industrial Track.  
 Wentao Wu, <u>Jiasheng Hu</u>, Manoj Syamala, Andres Freund, Vivek Narasayya.
 
-**PD3: Prefetching Data with DPUs for Disaggregated Memory.** NSDI 2026.  
+**[PD3: Prefetching Data with DPUs for Disaggregated Memory](https://fardatalab.org/nsdi26-pd3.pdf).** NSDI 2026. [Code](https://github.com/fardatalab/PD3).  
 Sidharth Sankhe, Felix Zhang, Umayrah Chonee, Sherman Lim, <u>Jiasheng Hu</u>, Jialin Li, Qizhen Zhang.
 
-**DPDPU: Data Processing with DPUs.** [(paper)](https://arxiv.org/pdf/2407.13658), CIDR 2025.  
+**[DPDPU: Data Processing with DPUs](https://fardatalab.org/cidr25-hu.pdf).** CIDR 2025.  
 <u>Jiasheng Hu</u>, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
 
-**DDS: DPU-optimized Disaggregated Storage.** [(paper)](https://arxiv.org/pdf/2407.13618), VLDB 2024.  
+**[DDS: DPU-optimized Disaggregated Storage](https://arxiv.org/pdf/2407.13618).** VLDB 2024. [Code](https://github.com/microsoft/dds).  
 Qizhen Zhang, Philip Bernstein, Badrish Chandramouli, <u>Jiasheng Hu</u>, Yiming Zheng.
