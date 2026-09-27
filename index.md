@@ -35,12 +35,23 @@ As a junior researcher, I am actively exploring new ideas and research direction
 - Oct. 2024: I gave a talk on ***DDS*** at [OnDBD](https://ondbd.ca/).
 
 
-# Research & Publication
+# Publications
 <!-- Include subpage research.md -->
 <!--  include_relative research.md %} -->
-**DPDPU: Data Processing with DPUs** [(link)](https://arxiv.org/pdf/2407.13658), CIDR 2025 <br>
-<u>Jiasheng Hu</u>, Philip Bernstein, Jialin Li, Qizhen Zhang
+**Making Sense of DPU Performance for Cloud Data Processing.** SoCC 2026.  
+<u>Jiasheng Hu</u>, Chihan Cui, Yuanfan Chen, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
 
+**dpKernels: Harvesting DPU Compute Resources for Data-path Efficiency in Cloud Data Processing.** VLDB 2026.  
+<u>Jiasheng Hu</u>, Kaiwen Zheng, Anna Li, Sidharth Sankhe, Philip A. Bernstein, Qizhen Zhang.
 
-**DDS: DPU-optimized Disaggregated Storage** [(link)](https://arxiv.org/pdf/2407.13618), VLDB 2024 <br>
-Qizhen Zhang, Philip Bernstein, Badrish Chandramouli, <u>Jiasheng Hu</u>, Yiming Zheng
+**Tuning the Lookahead Distance for PostgreSQL Asynchronous IO.** VLDB 2026 Industrial Track.  
+Wentao Wu, <u>Jiasheng Hu</u>, Manoj Syamala, Andres Freund, Vivek Narasayya.
+
+**PD3: Prefetching Data with DPUs for Disaggregated Memory.** NSDI 2026.  
+Sidharth Sankhe, Felix Zhang, Umayrah Chonee, Sherman Lim, <u>Jiasheng Hu</u>, Jialin Li, Qizhen Zhang.
+
+**DPDPU: Data Processing with DPUs.** [(paper)](https://arxiv.org/pdf/2407.13658), CIDR 2025.  
+<u>Jiasheng Hu</u>, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
+
+**DDS: DPU-optimized Disaggregated Storage.** [(paper)](https://arxiv.org/pdf/2407.13618), VLDB 2024.  
+Qizhen Zhang, Philip Bernstein, Badrish Chandramouli, <u>Jiasheng Hu</u>, Yiming Zheng.

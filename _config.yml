@@ -4,14 +4,14 @@
 url: https://jasonhu.site
 github:
   url: https://jasonhu.site
-title: Hi, welcome to my homepage!
+title: Jiasheng (Jason) Hu
 locale: en_US
 logo: #35x45.jpeg # displayed on top banner # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Jason (Jiasheng) Hu
-  avatar: 35x45.jpeg  # will be displayed next to name
+  avatar: Portrait-square.jpg  # updated profile photo in images/
   bio: PhD student at the University of Toronto, Dept. of Computer Science; BEng Hon. in Computer Science @ University of Edinburgh.
   website: #https://library.rochester.edu
   email: jasonhu@cs.toronto.edu # email
