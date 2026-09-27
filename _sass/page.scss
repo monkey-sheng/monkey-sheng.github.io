@@ -468,6 +468,12 @@ $button-size: 1.5rem;
 		text-decoration: underline;
 		color: #073661;
 	}
+
+	// Paper and repository links opt into this class instead of relying on markup shape.
+	.publication-link,
+	.code-link {
+		text-decoration: none;
+	}
 }
 
 /* Custom hyperlink text color only to links in the main content */
