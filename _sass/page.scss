@@ -460,11 +460,11 @@ $button-size: 1.5rem;
 
 /* Post content wrapper */
 .article-wrap, article.page {
-	// Dotted line underlines for links
-	p > a,
-	p > em > a,
-	p > strong > a,
-	li > a {
+	// Keep ordinary inline links underlined while publication and repository links opt out by class.
+	p > a:not(.publication-link):not(.code-link),
+	p > em > a:not(.publication-link):not(.code-link),
+	p > strong > a:not(.publication-link):not(.code-link),
+	li > a:not(.publication-link):not(.code-link) {
 		text-decoration: underline;
 		color: #073661;
 	}
