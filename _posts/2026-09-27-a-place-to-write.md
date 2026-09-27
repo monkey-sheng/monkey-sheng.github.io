@@ -6,4 +6,4 @@ category: blog
 excerpt: "A small beginning for this blog."
 ---
 
-I just started feeling like I might want to write something—not for everyone to see, but not in a diary I keep on my nightstand either.
+I just started feeling like I might want to write something. Not asking for everyone to see (or I'd post on Twitter or something), but also not like a diary I keep on my nightstand either.
