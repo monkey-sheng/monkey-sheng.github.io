@@ -460,11 +460,11 @@ $button-size: 1.5rem;
 
 /* Post content wrapper */
 .article-wrap, article.page {
-	// Keep ordinary inline links underlined while publication and repository links opt out by class.
-	p > a:not(.publication-link):not(.code-link),
-	p > em > a:not(.publication-link):not(.code-link),
-	p > strong > a:not(.publication-link):not(.code-link),
-	li > a:not(.publication-link):not(.code-link) {
+	// Underline ordinary inline links; publication and repository classes override this below.
+	p > a,
+	p > em > a,
+	p > strong > a,
+	li > a {
 		text-decoration: underline;
 		color: #073661;
 	}
