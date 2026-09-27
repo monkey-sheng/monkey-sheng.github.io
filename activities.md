@@ -1,6 +1,6 @@
 ---
-layout: post-index
-title: Activities
+layout: page
+title: Blogs
 ---
 
-TODO
+I just started feeling like I might want to write something—not for everyone to see, but not in a diary I keep on my nightstand either.

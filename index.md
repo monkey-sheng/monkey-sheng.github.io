@@ -32,7 +32,7 @@ I am a fourth-year PhD student in Computer Science at the University of Toronto 
 - Oct. 2024: Our paper ***DPDPU*** has been accepted at CIDR 2025!
 - Oct. 2024: I gave a talk on ***DDS*** at [OnDBD](https://ondbd.ca/).
 - May 2025: I started a summer research internship at [Microsoft Research](https://www.microsoft.com/en-us/research/) with Wentao Wu.
-- Apr. 2026: My internship project, [**Tuning the Lookahead Distance for PostgreSQL Asynchronous IO**](https://fardatalab.org/publications.html), was accepted to the VLDB 2026 Industrial Track.
+- Apr. 2026: My internship project, [**Tuning the Lookahead Distance for PostgreSQL Asynchronous IO**](https://www.vldb.org/pvldb/vol19/p3982-wu.pdf), was accepted to the VLDB 2026 Industrial Track.
 - Sept. 2026: I presented [**dpKernels**](https://fardatalab.org/vldb26-dpkernels.pdf) at VLDB 2026.
 
 
@@ -40,19 +40,19 @@ I am a fourth-year PhD student in Computer Science at the University of Toronto 
 <!-- Include subpage research.md -->
 <!--  include_relative research.md %} -->
 **[Making Sense of DPU Performance for Cloud Data Processing](https://fardatalab.org/publications.html).** SoCC 2026.  
-<u>Jiasheng Hu</u>, Chihan Cui, Yuanfan Chen, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
+<u>**Jiasheng Hu**</u>, Chihan Cui, Yuanfan Chen, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
 
 **[dpKernels: Harvesting DPU Compute Resources for Data-path Efficiency in Cloud Data Processing](https://fardatalab.org/vldb26-dpkernels.pdf).** VLDB 2026. [Code](https://github.com/fardatalab/dpKernels).  
-<u>Jiasheng Hu</u>, Kaiwen Zheng, Anna Li, Sidharth Sankhe, Philip A. Bernstein, Qizhen Zhang.
+<u>**Jiasheng Hu**</u>, Kaiwen Zheng, Anna Li, Sidharth Sankhe, Philip A. Bernstein, Qizhen Zhang.
 
-**[Tuning the Lookahead Distance for PostgreSQL Asynchronous IO](https://fardatalab.org/publications.html).** VLDB 2026 Industrial Track.  
-Wentao Wu, <u>Jiasheng Hu</u>, Manoj Syamala, Andres Freund, Vivek Narasayya.
+**[Tuning the Lookahead Distance for PostgreSQL Asynchronous IO](https://www.vldb.org/pvldb/vol19/p3982-wu.pdf).** VLDB 2026 Industrial Track.  
+[Wentao Wu](https://www.microsoft.com/en-us/research/people/wentwu), <u>**Jiasheng Hu**</u>, Manoj Syamala, Andres Freund, Vivek Narasayya.
 
 **[PD3: Prefetching Data with DPUs for Disaggregated Memory](https://fardatalab.org/nsdi26-pd3.pdf).** NSDI 2026. [Code](https://github.com/fardatalab/PD3).  
-Sidharth Sankhe, Felix Zhang, Umayrah Chonee, Sherman Lim, <u>Jiasheng Hu</u>, Jialin Li, Qizhen Zhang.
+Sidharth Sankhe, Felix Zhang, Umayrah Chonee, Sherman Lim, <u>**Jiasheng Hu**</u>, Jialin Li, Qizhen Zhang.
 
 **[DPDPU: Data Processing with DPUs](https://fardatalab.org/cidr25-hu.pdf).** CIDR 2025.  
-<u>Jiasheng Hu</u>, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
+<u>**Jiasheng Hu**</u>, Philip A. Bernstein, Jialin Li, Qizhen Zhang.
 
 **[DDS: DPU-optimized Disaggregated Storage](https://arxiv.org/pdf/2407.13618).** VLDB 2024. [Code](https://github.com/microsoft/dds).  
-Qizhen Zhang, Philip Bernstein, Badrish Chandramouli, <u>Jiasheng Hu</u>, Yiming Zheng.
+Qizhen Zhang, Philip Bernstein, Badrish Chandramouli, <u>**Jiasheng Hu**</u>, Yiming Zheng.
